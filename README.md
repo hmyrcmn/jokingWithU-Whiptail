@@ -1,4 +1,4 @@
-# jokingWithU-Whiptail
+# jokingWithUIWhiptail
 JOKING WİTH UI WHIPTAIL
 
 
